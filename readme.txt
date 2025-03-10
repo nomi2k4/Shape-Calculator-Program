@@ -32,10 +32,6 @@ Learning Objectives:
 - Working with floating-point variables and arithmetic operators
 - Basic geometry calculations for area and perimeter
 
-License:
-
-This project is open-source and available for learning purposes. Feel free to use, modify, or contribute.
-
 Contact:
 
-If you have any suggestions or questions, feel free to open an issue or submit a pull request on the GitHub repository!
+If you have any questions, feel free to open an issue or submit a pull request on the GitHub repository!
